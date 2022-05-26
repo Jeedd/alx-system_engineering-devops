@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -type d 751
+chmod a+X *
