@@ -9,3 +9,4 @@
 8-firstdelete deletes the file betty
 9-firstdirdeletion deletes the directory
 10-back changes working directory to the previous one
+11-lists lists directory
