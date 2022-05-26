@@ -7,3 +7,4 @@
 6-firstdirectory Create a script that creates a directory named 
 7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete deletes the file betty
+9-firstdirdeletion deletes the directory
