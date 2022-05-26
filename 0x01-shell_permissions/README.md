@@ -9,3 +9,4 @@
 8-James_Bond gives others only all permissions
 9-John_Doe changes permission
 10-mirror_permissions changes hello to same permission as olleh
+11-directories_permissions adds permissions to sub dirs
