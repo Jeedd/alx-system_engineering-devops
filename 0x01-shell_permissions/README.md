@@ -10,3 +10,4 @@
 9-John_Doe changes permission
 10-mirror_permissions changes hello to same permission as olleh
 11-directories_permissions adds permissions to sub dirs
+12-directory_permissions is used to make new directory with 751 permission
