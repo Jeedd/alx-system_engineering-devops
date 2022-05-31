@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ~/alx-system_engineering-devops/0x02-shell_redirections/ -Alts | tail -10
+ls -t1 | head -n 10
