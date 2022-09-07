@@ -1,2 +1,2 @@
 #!/bin/bash
-echo n=BINARY; dc -e "$n 2op"
+echo $((2#$BINARY))
